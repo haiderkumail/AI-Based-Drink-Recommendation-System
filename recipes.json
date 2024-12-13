@@ -1,0 +1,1736 @@
+{
+  "recipes": [
+    {
+      "name": "Gin and Tonic",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Tonic Water"}
+      ]
+    },
+    {
+      "name": "Lemonade",
+      "ingredients": [
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"}
+      ]
+    },
+    {
+      "name": "Mojito",
+      "ingredients": [
+        {"ingredient": "White Rum"},
+        {"ingredient": "Mint Leaves"},
+        {"ingredient": "Lime"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Soda Water"}
+      ]
+    },
+    {
+      "name": "Cosmopolitan",
+      "ingredients": [
+        {"ingredient": "Vodka"},
+        {"ingredient": "Triple Sec"},
+        {"ingredient": "Cranberry Juice"},
+        {"ingredient": "Lime"}
+      ]
+    },
+    {
+      "name": "Margarita",
+      "ingredients": [
+        {"ingredient": "Tequila"},
+        {"ingredient": "Triple Sec"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Salt"}
+      ]
+    },
+    {
+      "name": "Bloody Mary",
+      "ingredients": [
+        {"ingredient": "Vodka"},
+        {"ingredient": "Tomato Juice"},
+        {"ingredient": "Worcestershire Sauce"},
+        {"ingredient": "Hot Sauce"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Celery"}
+      ]
+    },
+    {
+      "name": "Whiskey Sour",
+      "ingredients": [
+        {"ingredient": "Whiskey"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Sugar"}
+      ]
+    },
+    {
+      "name": "Pina Colada",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Coconut Cream"},
+        {"ingredient": "Pineapple Juice"}
+      ]
+    },
+    {
+      "name": "Mai Tai",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Orange Curacao"},
+        {"ingredient": "Orgeat Syrup"}
+      ]
+    },
+    {
+      "name": "Old Fashioned",
+      "ingredients": [
+        {"ingredient": "Bourbon"},
+        {"ingredient": "Angostura Bitters"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Orange Peel"}
+      ]
+    },
+    {
+      "name": "Negroni",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Campari"},
+        {"ingredient": "Sweet Vermouth"}
+      ]
+    },
+    {
+      "name": "Martini",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Dry Vermouth"},
+        {"ingredient": "Olives"}
+      ]
+    },
+    {
+      "name": "Tequila Sunrise",
+      "ingredients": [
+        {"ingredient": "Tequila"},
+        {"ingredient": "Orange Juice"},
+        {"ingredient": "Grenadine"}
+      ]
+    },
+    {
+      "name": "Rum Punch",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Pineapple Juice"},
+        {"ingredient": "Orange Juice"},
+        {"ingredient": "Grenadine"}
+      ]
+    },
+    {
+      "name": "Cuba Libre",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Coca-Cola"},
+        {"ingredient": "Lime"}
+      ]
+    },
+    {
+      "name": "Long Island Iced Tea",
+      "ingredients": [
+        {"ingredient": "Vodka"},
+        {"ingredient": "Tequila"},
+        {"ingredient": "Rum"},
+        {"ingredient": "Gin"},
+        {"ingredient": "Triple Sec"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Coca-Cola"}
+      ]
+    },
+    {
+      "name": "Mint Julep",
+      "ingredients": [
+        {"ingredient": "Bourbon"},
+        {"ingredient": "Mint Leaves"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Caipirinha",
+      "ingredients": [
+        {"ingredient": "Cachaca"},
+        {"ingredient": "Lime"},
+        {"ingredient": "Sugar"}
+      ]
+    },
+    {
+      "name": "Daiquiri",
+      "ingredients": [
+        {"ingredient": "White Rum"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Sugar Syrup"}
+      ]
+    },
+    {
+      "name": "Apple Martini",
+      "ingredients": [
+        {"ingredient": "Vodka"},
+        {"ingredient": "Apple Schnapps"},
+        {"ingredient": "Lemon Juice"}
+      ]
+    },
+    {
+      "name": "Frozen Margarita",
+      "ingredients": [
+        {"ingredient": "Tequila"},
+        {"ingredient": "Triple Sec"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Ice"}
+      ]
+    },
+
+    {
+      "name": "Amaretto Sour",
+      "ingredients": [
+        {"ingredient": "Amaretto"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Egg White"},
+        {"ingredient": "Simple Syrup"}
+      ]
+    },
+    {
+      "name": "Mint Mojito",
+      "ingredients": [
+        {"ingredient": "White Rum"},
+        {"ingredient": "Mint Leaves"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Lime"},
+        {"ingredient": "Soda Water"}
+      ]
+    },
+    {
+      "name": "Blue Lagoon",
+      "ingredients": [
+        {"ingredient": "Vodka"},
+        {"ingredient": "Blue Curacao"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Soda Water"}
+      ]
+    },
+    {
+      "name": "Mai Tai",
+      "ingredients": [
+        {"ingredient": "Dark Rum"},
+        {"ingredient": "Light Rum"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Orange Curacao"},
+        {"ingredient": "Orgeat Syrup"}
+      ]
+    },
+    {
+      "name": "Clover Club",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Raspberry Syrup"},
+        {"ingredient": "Egg White"}
+      ]
+    },
+    {
+      "name": "Tequila Sour",
+      "ingredients": [
+        {"ingredient": "Tequila"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Simple Syrup"},
+        {"ingredient": "Egg White"}
+      ]
+    },
+    {
+      "name": "Rum Runner",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Orange Juice"},
+        {"ingredient": "Pineapple Juice"},
+        {"ingredient": "Grenadine"},
+        {"ingredient": "Blackberry Liqueur"}
+      ]
+    },
+    {
+      "name": "Pina Colada",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Pineapple Juice"},
+        {"ingredient": "Coconut Cream"},
+        {"ingredient": "Ice"}
+      ]
+    },
+    {
+      "name": "Strawberry Daiquiri",
+      "ingredients": [
+        {"ingredient": "White Rum"},
+        {"ingredient": "Strawberry Puree"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Sugar Syrup"}
+      ]
+    },
+    {
+      "name": "Tom Collins",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Sugar Syrup"},
+        {"ingredient": "Soda Water"}
+      ]
+    },
+    {
+      "name": "Long Island Iced Tea",
+      "ingredients": [
+        {"ingredient": "Vodka"},
+        {"ingredient": "Tequila"},
+        {"ingredient": "Rum"},
+        {"ingredient": "Gin"},
+        {"ingredient": "Triple Sec"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Coca-Cola"}
+      ]
+    },
+    {
+      "name": "Cuba Libre",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Coca-Cola"},
+        {"ingredient": "Lime"}
+      ]
+    },
+    {
+      "name": "Bellini",
+      "ingredients": [
+        {"ingredient": "Prosecco"},
+        {"ingredient": "Peach Puree"}
+      ]
+    },
+    {
+      "name": "Fuzzy Navel",
+      "ingredients": [
+        {"ingredient": "Peach Schnapps"},
+        {"ingredient": "Orange Juice"}
+      ]
+    },
+    {
+      "name": "French 75",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Champagne"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Sugar Syrup"}
+      ]
+    },
+    {
+      "name": "Sazerac",
+      "ingredients": [
+        {"ingredient": "Rye Whiskey"},
+        {"ingredient": "Absinthe"},
+        {"ingredient": "Sugar Cube"},
+        {"ingredient": "Peychaud's Bitters"}
+      ]
+    },
+    {
+      "name": "Whiskey Smash",
+      "ingredients": [
+        {"ingredient": "Whiskey"},
+        {"ingredient": "Mint Leaves"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Simple Syrup"}
+      ]
+    },
+    {
+      "name": "Caipirinha",
+      "ingredients": [
+        {"ingredient": "Cachaca"},
+        {"ingredient": "Lime"},
+        {"ingredient": "Sugar"}
+      ]
+    },
+    {
+      "name": "Zombie",
+      "ingredients": [
+        {"ingredient": "Light Rum"},
+        {"ingredient": "Dark Rum"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Grenadine"},
+        {"ingredient": "Pineapple Juice"},
+        {"ingredient": "Apricot Brandy"}
+      ]
+    },
+    {
+      "name": "Bourbon Smash",
+      "ingredients": [
+        {"ingredient": "Bourbon"},
+        {"ingredient": "Mint Leaves"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Simple Syrup"}
+      ]
+    },
+    {
+      "name": "Mai Tai",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Orange Curacao"},
+        {"ingredient": "Orgeat Syrup"}
+      ]
+    },
+    {
+      "name": "Irish Coffee",
+      "ingredients": [
+        {"ingredient": "Irish Whiskey"},
+        {"ingredient": "Hot Coffee"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Whipped Cream"}
+      ]
+    },
+    {
+      "name": "Moscow Mule",
+      "ingredients": [
+        {"ingredient": "Vodka"},
+        {"ingredient": "Ginger Beer"},
+        {"ingredient": "Lime"}
+      ]
+    },
+    {
+      "name": "Mai Tai",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Orange Curacao"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Orgeat Syrup"}
+      ]
+    },
+    {
+      "name": "Amaretto Sour",
+      "ingredients": [
+        {"ingredient": "Amaretto"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Simple Syrup"},
+        {"ingredient": "Egg White"}
+      ]
+    },
+    {
+      "name": "Hibiscus Daiquiri",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Hibiscus Syrup"},
+        {"ingredient": "Lime Juice"}
+      ]
+    },
+    {
+      "name": "Mint Mojito",
+      "ingredients": [
+        {"ingredient": "White Rum"},
+        {"ingredient": "Mint Leaves"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Soda Water"},
+        {"ingredient": "Lime"}
+      ]
+    },
+    {
+      "name": "Apple Martini",
+      "ingredients": [
+        {"ingredient": "Vodka"},
+        {"ingredient": "Apple Schnapps"},
+        {"ingredient": "Lemon Juice"}
+      ]
+    },
+    {
+      "name": "Pomegranate Margarita",
+      "ingredients": [
+        {"ingredient": "Tequila"},
+        {"ingredient": "Triple Sec"},
+        {"ingredient": "Pomegranate Juice"},
+        {"ingredient": "Lime Juice"}
+      ]
+    },
+    {
+      "name": "Peach Bellini",
+      "ingredients": [
+        {"ingredient": "Prosecco"},
+        {"ingredient": "Peach Puree"}
+      ]
+    },
+    {
+      "name": "Tequila Sunrise",
+      "ingredients": [
+        {"ingredient": "Tequila"},
+        {"ingredient": "Orange Juice"},
+        {"ingredient": "Grenadine"}
+      ]
+    },
+    {
+      "name": "Paloma",
+      "ingredients": [
+        {"ingredient": "Tequila"},
+        {"ingredient": "Grapefruit Soda"},
+        {"ingredient": "Lime"}
+      ]
+    },
+    {
+      "name": "Mint Julep",
+      "ingredients": [
+        {"ingredient": "Bourbon"},
+        {"ingredient": "Mint Leaves"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Negroni",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Campari"},
+        {"ingredient": "Sweet Vermouth"}
+      ]
+    },
+    {
+      "name": "Pisco Sour",
+      "ingredients": [
+        {"ingredient": "Pisco"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Egg White"},
+        {"ingredient": "Simple Syrup"}
+      ]
+    },
+    {
+      "name": "Frozen Daiquiri",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Sugar Syrup"},
+        {"ingredient": "Ice"}
+      ]
+    },
+    {
+      "name": "Gin Fizz",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Sugar Syrup"},
+        {"ingredient": "Soda Water"}
+      ]
+    },
+    {
+      "name": "Sazerac",
+      "ingredients": [
+        {"ingredient": "Rye Whiskey"},
+        {"ingredient": "Absinthe"},
+        {"ingredient": "Sugar Cube"},
+        {"ingredient": "Peychaud's Bitters"}
+      ]
+    },
+    {
+      "name": "Amaretto Sour",
+      "ingredients": [
+        {"ingredient": "Amaretto"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Sugar Syrup"}
+      ]
+    },
+    {
+      "name": "Apple Cider Mimosa",
+      "ingredients": [
+        {"ingredient": "Champagne"},
+        {"ingredient": "Apple Cider"},
+        {"ingredient": "Cinnamon"}
+      ]
+    },
+    {
+      "name": "Aviation",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Maraschino Liqueur"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Crème de Violette"}
+      ]
+    },
+    {
+      "name": "B52",
+      "ingredients": [
+        {"ingredient": "Kahlúa"},
+        {"ingredient": "Baileys Irish Cream"},
+        {"ingredient": "Grand Marnier"}
+      ]
+    },
+    {
+      "name": "Banana Daiquiri",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Banana"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Sugar Syrup"}
+      ]
+    },
+    {
+      "name": "Bellini",
+      "ingredients": [
+        {"ingredient": "Prosecco"},
+        {"ingredient": "Peach Purée"}
+      ]
+    },
+    {
+      "name": "Black Velvet",
+      "ingredients": [
+        {"ingredient": "Guinness Stout"},
+        {"ingredient": "Champagne"}
+      ]
+    },
+    {
+      "name": "Blue Lagoon",
+      "ingredients": [
+        {"ingredient": "Blue Curacao"},
+        {"ingredient": "Vodka"},
+        {"ingredient": "Lemon Juice"}
+      ]
+    },
+    {
+      "name": "Caipirinha",
+      "ingredients": [
+        {"ingredient": "Cachaca"},
+        {"ingredient": "Lime"},
+        {"ingredient": "Sugar"}
+      ]
+    },
+    {
+      "name": "Caribbean Breeze",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Pineapple Juice"},
+        {"ingredient": "Cranberry Juice"}
+      ]
+    },
+    {
+      "name": "Clover Club",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Raspberry Syrup"},
+        {"ingredient": "Egg White"}
+      ]
+    },
+    {
+      "name": "Coconut Mojito",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Coconut Cream"},
+        {"ingredient": "Lime"},
+        {"ingredient": "Mint Leaves"},
+        {"ingredient": "Soda Water"}
+      ]
+    },
+    {
+      "name": "Corpse Reviver #2",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Cointreau"},
+        {"ingredient": "Lillet Blanc"},
+        {"ingredient": "Absinthe"}
+      ]
+    },
+    {
+      "name": "Cosmopolitan",
+      "ingredients": [
+        {"ingredient": "Vodka"},
+        {"ingredient": "Triple Sec"},
+        {"ingredient": "Cranberry Juice"},
+        {"ingredient": "Lime"}
+      ]
+    },
+    {
+      "name": "Cuba Libre",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Coca-Cola"},
+        {"ingredient": "Lime"}
+      ]
+    },
+    {
+      "name": "Dark and Stormy",
+      "ingredients": [
+        {"ingredient": "Dark Rum"},
+        {"ingredient": "Ginger Beer"},
+        {"ingredient": "Lime Juice"}
+      ]
+    },
+    {
+      "name": "Dirty Martini",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Dry Vermouth"},
+        {"ingredient": "Olives"}
+      ]
+    },
+    {
+      "name": "Espresso Martini",
+      "ingredients": [
+        {"ingredient": "Vodka"},
+        {"ingredient": "Coffee Liqueur"},
+        {"ingredient": "Espresso"}
+      ]
+    },
+    {
+      "name": "Gin Tonic",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Tonic Water"}
+      ]
+    },
+    {
+      "name": "Gin Fizz",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Sugar Syrup"},
+        {"ingredient": "Soda Water"}
+      ]
+    },
+    {
+      "name": "Hibiscus Daiquiri",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Hibiscus Syrup"}
+      ]
+    },
+    {
+      "name": "Hugo",
+      "ingredients": [
+        {"ingredient": "Prosecco"},
+        {"ingredient": "Elderflower Syrup"},
+        {"ingredient": "Soda Water"},
+        {"ingredient": "Lime"}
+      ]
+    },
+    {
+      "name": "Irish Coffee",
+      "ingredients": [
+        {"ingredient": "Irish Whiskey"},
+        {"ingredient": "Hot Coffee"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Whipped Cream"}
+      ]
+    },
+    {
+      "name": "Jack and Coke",
+      "ingredients": [
+        {"ingredient": "Jack Daniel's Whiskey"},
+        {"ingredient": "Coca-Cola"}
+      ]
+    },
+    {
+      "name": "Kamikaze",
+      "ingredients": [
+        {"ingredient": "Vodka"},
+        {"ingredient": "Triple Sec"},
+        {"ingredient": "Lime Juice"}
+      ]
+    },
+    {
+      "name": "Kettle One Mule",
+      "ingredients": [
+        {"ingredient": "Kettle One Vodka"},
+        {"ingredient": "Ginger Beer"},
+        {"ingredient": "Lime"}
+      ]
+    },
+    {
+      "name": "Kir Royale",
+      "ingredients": [
+        {"ingredient": "Champagne"},
+        {"ingredient": "Creme de Cassis"}
+      ]
+    },
+    {
+      "name": "Mai Tai",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Orange Curacao"},
+        {"ingredient": "Orgeat Syrup"}
+      ]
+    },
+    {
+      "name": "Manhattan",
+      "ingredients": [
+        {"ingredient": "Whiskey"},
+        {"ingredient": "Sweet Vermouth"},
+        {"ingredient": "Angostura Bitters"}
+      ]
+    },
+    {
+      "name": "Margarita",
+      "ingredients": [
+        {"ingredient": "Tequila"},
+        {"ingredient": "Triple Sec"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Salt"}
+      ]
+    },
+    {
+      "name": "Martini",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Dry Vermouth"},
+        {"ingredient": "Olives"}
+      ]
+    },
+    {
+      "name": "Mint Julep",
+      "ingredients": [
+        {"ingredient": "Bourbon"},
+        {"ingredient": "Mint Leaves"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Moscow Mule",
+      "ingredients": [
+        {"ingredient": "Vodka"},
+        {"ingredient": "Ginger Beer"},
+        {"ingredient": "Lime"}
+      ]
+    },
+    {
+      "name": "Negroni",
+      "ingredients": [
+        {"ingredient": "Gin"},
+        {"ingredient": "Campari"},
+        {"ingredient": "Sweet Vermouth"}
+      ]
+    },
+    {
+      "name": "Old Fashioned",
+      "ingredients": [
+        {"ingredient": "Bourbon"},
+        {"ingredient": "Angostura Bitters"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Orange Peel"}
+      ]
+    },
+    {
+      "name": "Piña Colada",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Coconut Cream"},
+        {"ingredient": "Pineapple Juice"}
+      ]
+    },
+    {
+      "name": "Rum Punch",
+      "ingredients": [
+        {"ingredient": "Rum"},
+        {"ingredient": "Pineapple Juice"},
+        {"ingredient": "Orange Juice"},
+        {"ingredient": "Grenadine"}
+      ]
+    },
+    {
+      "name": "Tequila Sunrise",
+      "ingredients": [
+        {"ingredient": "Tequila"},
+        {"ingredient": "Orange Juice"},
+        {"ingredient": "Grenadine"}
+      ]
+    },
+    {
+      "name": "Whiskey Sour",
+      "ingredients": [
+        {"ingredient": "Whiskey"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Sugar"}
+      ]
+    },
+    {
+      "name": "White Russian",
+      "ingredients": [
+        {"ingredient": "Vodka"},
+        {"ingredient": "Kahlúa"},
+        {"ingredient": "Cream"}
+      ]
+    },
+    {
+      "name": "Zombie",
+      "ingredients": [
+        {"ingredient": "Light Rum"},
+        {"ingredient": "Dark Rum"},
+        {"ingredient": "Lime Juice"},
+        {"ingredient": "Grenadine"},
+        {"ingredient": "Pineapple Juice"},
+        {"ingredient": "Apricot Brandy"}
+      ]
+    },
+    {
+      "name": "Apple Juice",
+      "ingredients": [
+        {"ingredient": "Apple"}
+      ]
+    },
+    {
+      "name": "Orange Juice",
+      "ingredients": [
+        {"ingredient": "Orange"}
+      ]
+    },
+    {
+      "name": "Lemonade",
+      "ingredients": [
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Pineapple Juice",
+      "ingredients": [
+        {"ingredient": "Pineapple"}
+      ]
+    },
+    {
+      "name": "Cranberry Juice",
+      "ingredients": [
+        {"ingredient": "Cranberries"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Tomato Juice",
+      "ingredients": [
+        {"ingredient": "Tomato"}
+      ]
+    },
+    {
+      "name": "Mango Juice",
+      "ingredients": [
+        {"ingredient": "Mango"}
+      ]
+    },
+    {
+      "name": "Watermelon Juice",
+      "ingredients": [
+        {"ingredient": "Watermelon"}
+      ]
+    },
+    {
+      "name": "Peach Juice",
+      "ingredients": [
+        {"ingredient": "Peach"}
+      ]
+    },
+    {
+      "name": "Grape Juice",
+      "ingredients": [
+        {"ingredient": "Grapes"}
+      ]
+    },
+    {
+      "name": "Strawberry Lemonade",
+      "ingredients": [
+        {"ingredient": "Strawberries"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Carrot Juice",
+      "ingredients": [
+        {"ingredient": "Carrot"}
+      ]
+    },
+    {
+      "name": "Cucumber Lemonade",
+      "ingredients": [
+        {"ingredient": "Cucumber"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Lime Juice",
+      "ingredients": [
+        {"ingredient": "Lime"}
+      ]
+    },
+    {
+      "name": "Coconut Water",
+      "ingredients": [
+        {"ingredient": "Coconut"}
+      ]
+    },
+    {
+      "name": "Ginger Ale",
+      "ingredients": [
+        {"ingredient": "Ginger"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Carbonated Water"}
+      ]
+    },
+    {
+      "name": "Iced Tea",
+      "ingredients": [
+        {"ingredient": "Tea"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Ice"}
+      ]
+    },
+    {
+      "name": "Lemon Iced Tea",
+      "ingredients": [
+        {"ingredient": "Tea"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Ice"}
+      ]
+    },
+    {
+      "name": "Raspberry Lemonade",
+      "ingredients": [
+        {"ingredient": "Raspberries"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Pineapple Ginger Juice",
+      "ingredients": [
+        {"ingredient": "Pineapple"},
+        {"ingredient": "Ginger"}
+      ]
+    },
+    {
+      "name": "Citrus Punch",
+      "ingredients": [
+        {"ingredient": "Orange"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Lime"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Blueberry Lemonade",
+      "ingredients": [
+        {"ingredient": "Blueberries"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Peach Lemonade",
+      "ingredients": [
+        {"ingredient": "Peach"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Apple Cider",
+      "ingredients": [
+        {"ingredient": "Apple"},
+        {"ingredient": "Cinnamon"}
+      ]
+    },
+    {
+      "name": "Kiwi Juice",
+      "ingredients": [
+        {"ingredient": "Kiwi"}
+      ]
+    },
+    {
+      "name": "Lemon Cucumber Water",
+      "ingredients": [
+        {"ingredient": "Lemon"},
+        {"ingredient": "Cucumber"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Aloe Vera Juice",
+      "ingredients": [
+        {"ingredient": "Aloe Vera"}
+      ]
+    },
+    {
+      "name": "Pomegranate Juice",
+      "ingredients": [
+        {"ingredient": "Pomegranate"}
+      ]
+    },
+    {
+      "name": "Tangerine Juice",
+      "ingredients": [
+        {"ingredient": "Tangerine"}
+      ]
+    },
+    {
+      "name": "Acai Berry Juice",
+      "ingredients": [
+        {"ingredient": "Acai Berry"}
+      ]
+    },
+    {
+      "name": "Mango Pineapple Juice",
+      "ingredients": [
+        {"ingredient": "Mango"},
+        {"ingredient": "Pineapple"}
+      ]
+    },
+    {
+      "name": "Pear Juice",
+      "ingredients": [
+        {"ingredient": "Pear"}
+      ]
+    },
+    {
+      "name": "Lychee Juice",
+      "ingredients": [
+        {"ingredient": "Lychee"}
+      ]
+    },
+    {
+      "name": "Papaya Juice",
+      "ingredients": [
+        {"ingredient": "Papaya"}
+      ]
+    },
+    {
+      "name": "Cantaloupe Juice",
+      "ingredients": [
+        {"ingredient": "Cantaloupe"}
+      ]
+    },
+    {
+      "name": "Watermelon Mint Juice",
+      "ingredients": [
+        {"ingredient": "Watermelon"},
+        {"ingredient": "Mint"}
+      ]
+    },
+    {
+      "name": "Coconut Lime Water",
+      "ingredients": [
+        {"ingredient": "Coconut"},
+        {"ingredient": "Lime"}
+      ]
+    },
+    {
+      "name": "Cranberry Limeade",
+      "ingredients": [
+        {"ingredient": "Cranberry"},
+        {"ingredient": "Lime"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Ginger Lemonade",
+      "ingredients": [
+        {"ingredient": "Ginger"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Cucumber Mint Water",
+      "ingredients": [
+        {"ingredient": "Cucumber"},
+        {"ingredient": "Mint"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Mango Lassi",
+      "ingredients": [
+        {"ingredient": "Mango"},
+        {"ingredient": "Yogurt"},
+        {"ingredient": "Sugar"}
+      ]
+    },
+    {
+      "name": "Passion Fruit Juice",
+      "ingredients": [
+        {"ingredient": "Passion Fruit"}
+      ]
+    },
+    {
+      "name": "Raspberry Juice",
+      "ingredients": [
+        {"ingredient": "Raspberries"}
+      ]
+    },
+    {
+      "name": "Blackberry Lemonade",
+      "ingredients": [
+        {"ingredient": "Blackberries"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Strawberry Kiwi Juice",
+      "ingredients": [
+        {"ingredient": "Strawberry"},
+        {"ingredient": "Kiwi"}
+      ]
+    },
+    {
+      "name": "Ginger Lemon Tea",
+      "ingredients": [
+        {"ingredient": "Ginger"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Tea"}
+      ]
+    },
+    {
+      "name": "Pineapple Mint Juice",
+      "ingredients": [
+        {"ingredient": "Pineapple"},
+        {"ingredient": "Mint"}
+      ]
+    },
+    {
+      "name": "Cucumber Mint Lemonade",
+      "ingredients": [
+        {"ingredient": "Cucumber"},
+        {"ingredient": "Mint"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Strawberry Lemon Water",
+      "ingredients": [
+        {"ingredient": "Strawberries"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Pineapple Ginger Lemonade",
+      "ingredients": [
+        {"ingredient": "Pineapple"},
+        {"ingredient": "Ginger"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Cucumber Mint Lemon Water",
+      "ingredients": [
+        {"ingredient": "Cucumber"},
+        {"ingredient": "Mint"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Strawberry Kiwi Lemonade",
+      "ingredients": [
+        {"ingredient": "Strawberries"},
+        {"ingredient": "Kiwi"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Pineapple Mint Lemonade",
+      "ingredients": [
+        {"ingredient": "Pineapple"},
+        {"ingredient": "Mint"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Cucumber Mint Lemonade",
+      "ingredients": [
+        {"ingredient": "Cucumber"},
+        {"ingredient": "Mint"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Strawberry Lemon Water",
+      "ingredients": [
+        {"ingredient": "Strawberries"},
+        {"ingredient": "Lemon"},
+        {"ingredient": "Water"}
+      ]
+    },
+    {
+      "name": "Coca-Cola",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Caramel Color"},
+        {"ingredient": "Phosphoric Acid"},
+        {"ingredient": "Caffeine"},
+        {"ingredient": "Natural Flavors"}
+      ]
+    },
+    {
+      "name": "Pepsi",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Caramel Color"},
+        {"ingredient": "Phosphoric Acid"},
+        {"ingredient": "Caffeine"},
+        {"ingredient": "Citric Acid"},
+        {"ingredient": "Natural Flavors"}
+      ]
+    },
+    {
+      "name": "Sprite",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Citric Acid"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Natural Lemon Lime Flavor"},
+        {"ingredient": "Sodium Benzoate"}
+      ]
+    },
+    {
+      "name": "Fanta",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Citric Acid"},
+        {"ingredient": "Natural Flavors"},
+        {"ingredient": "Color Additive"}
+      ]
+    },
+    {
+      "name": "7UP",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Citric Acid"},
+        {"ingredient": "Lemon Flavor"},
+        {"ingredient": "Sodium Benzoate"}
+      ]
+    },
+    {
+      "name": "Mountain Dew",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Citric Acid"},
+        {"ingredient": "Natural Flavors"},
+        {"ingredient": "Caffeine"}
+      ]
+    },
+    {
+      "name": "Dr Pepper",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Caramel Color"},
+        {"ingredient": "Phosphoric Acid"},
+        {"ingredient": "Artificial Flavors"}
+      ]
+    },
+    {
+      "name": "Coca-Cola Zero Sugar",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Artificial Sweeteners (Aspartame, Acesulfame Potassium)"},
+        {"ingredient": "Caramel Color"},
+        {"ingredient": "Caffeine"},
+        {"ingredient": "Phosphoric Acid"},
+        {"ingredient": "Natural Flavors"}
+      ]
+    },
+    {
+      "name": "Red Bull",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Sucrose"},
+        {"ingredient": "Glucose"},
+        {"ingredient": "Caffeine"},
+        {"ingredient": "Taurine"},
+        {"ingredient": "Vitamin B12"}
+      ]
+    },
+    {
+      "name": "Lipton Iced Tea",
+      "ingredients": [
+        {"ingredient": "Water"},
+        {"ingredient": "Tea Extract"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Citric Acid"},
+        {"ingredient": "Natural Flavors"}
+      ]
+    },
+    {
+      "name": "Schweppes Ginger Ale",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Ginger Extract"},
+        {"ingredient": "Citric Acid"},
+        {"ingredient": "Natural Flavors"}
+      ]
+    },
+    {
+      "name": "Canada Dry Ginger Ale",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Ginger Extract"},
+        {"ingredient": "Citric Acid"}
+      ]
+    },
+    {
+      "name": "Tropicana Orange Juice",
+      "ingredients": [
+        {"ingredient": "Orange Juice"}
+      ]
+    },
+    {
+      "name": "Schweppes Tonic Water",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Quinine"},
+        {"ingredient": "Citric Acid"},
+        {"ingredient": "High Fructose Corn Syrup"}
+      ]
+    },
+    {
+      "name": "San Pellegrino Sparkling Water",
+      "ingredients": [
+        {"ingredient": "Sparkling Water"}
+      ]
+    },
+    {
+      "name": "Vita Coco Coconut Water",
+      "ingredients": [
+        {"ingredient": "Coconut Water"}
+      ]
+    },
+    {
+      "name": "Aquafina Water",
+      "ingredients": [
+        {"ingredient": "Purified Water"}
+      ]
+    },
+    {
+      "name": "Evian Water",
+      "ingredients": [
+        {"ingredient": "Mineral Water"}
+      ]
+    },
+    {
+      "name": "Nestle Pure Life Water",
+      "ingredients": [
+        {"ingredient": "Purified Water"}
+      ]
+    },
+    {
+      "name": "SodaStream",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Flavoring Syrup"}
+      ]
+    },
+    {
+      "name": "Peach Fanta",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Peach Flavoring"},
+        {"ingredient": "Citric Acid"}
+      ]
+    },
+    {
+      "name": "Sprite Cranberry",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Cranberry Flavor"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Citric Acid"}
+      ]
+    },
+    {
+      "name": "Coca-Cola Vanilla",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Vanilla Flavor"},
+        {"ingredient": "Caffeine"},
+        {"ingredient": "Phosphoric Acid"}
+      ]
+    },
+    {
+      "name": "Fanta Orange",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Orange Flavor"},
+        {"ingredient": "Citric Acid"}
+      ]
+    },
+    {
+      "name": "Root Beer",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Root Extract"},
+        {"ingredient": "Sassafras"}
+      ]
+    },
+    {
+      "name": "Peach Iced Tea",
+      "ingredients": [
+        {"ingredient": "Tea Extract"},
+        {"ingredient": "Peach Flavor"},
+        {"ingredient": "Sugar"}
+      ]
+    },
+    {
+      "name": "Bovonto Grape Juice",
+      "ingredients": [
+        {"ingredient": "Grapes"},
+        {"ingredient": "Sugar"}
+      ]
+    },
+    {
+      "name": "Gatorade",
+      "ingredients": [
+        {"ingredient": "Water"},
+        {"ingredient": "Electrolytes"},
+        {"ingredient": "Citric Acid"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Artificial Flavors"}
+      ]
+    },
+    {
+      "name": "Powerade",
+      "ingredients": [
+        {"ingredient": "Water"},
+        {"ingredient": "Electrolytes"},
+        {"ingredient": "Citric Acid"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Artificial Flavors"}
+      ]
+    },
+    {
+      "name": "Lemon Fanta",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Lemon Flavor"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Citric Acid"}
+      ]
+    },
+    {
+      "name": "Mirinda Orange",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Orange Flavor"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Citric Acid"}
+      ]
+    },
+    {
+      "name": "Orangina",
+      "ingredients": [
+        {"ingredient": "Orange Juice"},
+        {"ingredient": "Lemon Juice"},
+        {"ingredient": "Carbonated Water"}
+      ]
+    },
+    {
+      "name": "Club Soda",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"}
+      ]
+    },
+    {
+      "name": "Tonic Water",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Quinine"},
+        {"ingredient": "Citric Acid"}
+      ]
+    },
+    {
+      "name": "Fiji Water",
+      "ingredients": [
+        {"ingredient": "Mineral Water"}
+      ]
+    },
+    {
+      "name": "LaCroix Sparkling Water",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Natural Flavors"}
+      ]
+    },
+    {
+      "name": "A&W Root Beer",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Sugar"},
+        {"ingredient": "Root Beer Extract"}
+      ]
+    },
+    {
+      "name": "Yellow Bird",
+      "ingredients": [
+      { "ingredient": "Light Rum" },
+      { "ingredient": "Galliano" },
+      { "ingredient": "Triple Sec" },
+      { "ingredient": "Lime Juice" }
+      ]
+    },
+    {
+      "name": "Sierra Mist",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Lemon Flavor"},
+        {"ingredient": "Sugar"}
+      ]
+    },
+    {
+      "name": "Pepsi Max",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Artificial Sweeteners (Aspartame, Acesulfame Potassium)"},
+        {"ingredient": "Caramel Color"},
+        {"ingredient": "Caffeine"},
+        {"ingredient": "Phosphoric Acid"},
+        {"ingredient": "Natural Flavors"}
+      ]
+    },
+    {
+      "name": "Coca-Cola Life",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "Cane Sugar"},
+        {"ingredient": "Caramel Color"},
+        {"ingredient": "Caffeine"},
+        {"ingredient": "Phosphoric Acid"},
+        {"ingredient": "Natural Flavors"}
+      ]
+    },
+    {
+      "name": "Fanta Grape",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Grape Flavor"},
+        {"ingredient": "Citric Acid"}
+      ]
+    },
+    {
+      "name": "Fanta Strawberry",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Strawberry Flavor"},
+        {"ingredient": "Citric Acid"}
+      ]
+    },
+    {
+      "name": "Fanta Pineapple",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Pineapple Flavor"},
+        {"ingredient": "Citric Acid"}
+      ]
+    },
+    {
+      "name": "Fanta Berry",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Berry Flavor"},
+        {"ingredient": "Citric Acid"}
+      ]
+    },
+    {
+      "name": "Fanta Mango",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Mango Flavor"},
+        {"ingredient": "Citric Acid"}
+      ]
+    },
+    {
+      "name": "Fanta Apple",
+      "ingredients": [
+        {"ingredient": "Carbonated Water"},
+        {"ingredient": "High Fructose Corn Syrup"},
+        {"ingredient": "Apple Flavor"},
+        {"ingredient": "Citric Acid"}
+      ]
+    },
+    {
+      "name": "Masala Chai",
+      "ingredients": [
+        {"ingredient": "Milk"},
+        {"ingredient": "Black Tea"},
+        {"ingredient": "Cardamom"},
+        {"ingredient": "Cinnamon"},
+        {"ingredient": "Cloves"},
+        {"ingredient": "Ginger"},
+        {"ingredient": "Sugar"}
+      ]
+    },
+    {
+      "name": "Cappuccino",
+      "ingredients": [
+        {"ingredient": "Milk"},
+        {"ingredient": "Espresso"},
+        {"ingredient": "Foamed Milk"}
+      ]
+    },
+    {
+      "name": "Matcha Latte",
+      "ingredients": [
+        {"ingredient": "Milk"},
+        {"ingredient": "Matcha Powder"},
+        {"ingredient": "Hot Water"},
+        {"ingredient": "Honey"}
+      ]
+    },
+    {
+      "name": "Turkish Coffee",
+      "ingredients": [
+        {"ingredient": "Milk"},
+        {"ingredient": "Ground Coffee"},
+        {"ingredient": "Water"},
+        {"ingredient": "Sugar"}
+      ]
+    },
+    {
+      "name": "Iced Thai Tea",
+      "ingredients": [
+        {"ingredient": "Milk"},
+        {"ingredient": "Black Tea"},
+        {"ingredient": "Star Anise"},
+        {"ingredient": "Sweetened Condensed Milk"},
+        {"ingredient": "Sugar"}
+      ]
+    }
+  ]
+}
+
+

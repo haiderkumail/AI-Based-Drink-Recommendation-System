@@ -1,0 +1,136 @@
+{
+  "happy": [
+    "Margarita", "Cosmopolitan", "Pina Colada", "Mai Tai", "Long Island Iced Tea", "Rum Punch", 
+    "Tequila Sunrise", "Apple Martini", "Frozen Margarita", "Cuba Libre", "Strawberry Daiquiri", 
+    "Mint Julep", "Lemonade", "Gin Fizz", "Whiskey Sour"
+  ],
+  "relaxed": [
+    "Pina Colada", "Mojito", "Mai Tai", "Gin and Tonic", "Mint Julep", "Frozen Daiquiri", 
+    "Cuba Libre", "Margarita", "Pisco Sour", "Piña Colada", "Rum Punch"
+  ],
+  "adventurous": [
+    "Negroni", "Whiskey Sour", "Old Fashioned", "Gin and Tonic", "Cuba Libre", "Martini", 
+    "Tequila Sunrise", "Mai Tai", "Long Island Iced Tea", "Bloody Mary", "Margarita"
+  ],
+  "romantic": [
+    "Champagne Cocktail", "Strawberry Daiquiri", "Apple Martini", "Cosmopolitan", "Piña Colada", 
+    "Margarita", "Negroni", "Gin Fizz", "Whiskey Sour", "Frozen Margarita", "Rum Punch"
+  ],
+  "sad": [
+    "Gin and Tonic", "Whiskey Sour", "Bloody Mary", "Long Island Iced Tea", "Margarita", 
+    "Negroni", "Cosmopolitan", "Frozen Daiquiri"
+  ],
+  "energized": [
+    "Tequila Sunrise", "Rum Punch", "Bloody Mary", "Mai Tai", "Margarita", "Long Island Iced Tea", 
+    "Gin Fizz", "Frozen Daiquiri", "Piña Colada", "Mint Julep", "Whiskey Sour"
+  ],
+  "chill": [
+    "Mojito", "Frozen Daiquiri", "Long Island Iced Tea", "Gin Fizz", "Piña Colada", "Rum Punch", 
+    "Cuba Libre", "Margarita", "Strawberry Daiquiri", "Mint Julep", "Tequila Sunrise"
+  ],
+  "playful": [
+    "Mai Tai", "Margarita", "Gin and Tonic", "Strawberry Daiquiri", "Frozen Margarita", 
+    "Tequila Sunrise", "Piña Colada", "Rum Punch", "Long Island Iced Tea"
+  ],
+  "confident": [
+    "Old Fashioned", "Martini", "Negroni", "Whiskey Sour", "Gin and Tonic", "Tequila Sunrise"
+  ],
+  "nostalgic": [
+    "Frozen Daiquiri", "Mai Tai", "Piña Colada", "Whiskey Sour", "Tequila Sunrise", "Rum Punch"
+  ],
+  "guilty": [
+    "Margarita", "Gin and Tonic", "Long Island Iced Tea", "Whiskey Sour", "Bloody Mary", 
+    "Piña Colada", "Rum Punch"
+  ],
+  "hungry": [
+    "Bloody Mary", "Margarita", "Piña Colada", "Mai Tai", "Frozen Daiquiri", "Long Island Iced Tea", 
+    "Rum Punch", "Tequila Sunrise"
+  ],
+  "joyful": [
+    "Strawberry Daiquiri", "Piña Colada", "Cosmopolitan", "Margarita", "Tequila Sunrise", 
+    "Mai Tai", "Long Island Iced Tea", "Whiskey Sour"
+  ],
+  "content": [
+    "Gin and Tonic", "Margarita", "Whiskey Sour", "Mai Tai", "Long Island Iced Tea", "Pina Colada", 
+    "Frozen Daiquiri", "Mint Julep", "Rum Punch"
+  ],
+  "anxious": [
+    "Gin and Tonic", "Whiskey Sour", "Bloody Mary", "Rum Punch", "Margarita", "Negroni", 
+    "Tequila Sunrise", "Cuba Libre"
+  ],
+  "creative": [
+    "Mojito", "Gin Fizz", "Negroni", "Old Fashioned", "Bloody Mary", "Piña Colada", "Martini"
+  ],
+  "nervous": [
+    "Gin and Tonic", "Whiskey Sour", "Bloody Mary", "Tequila Sunrise", "Mai Tai", "Margarita"
+  ],
+  "peaceful": [
+    "Mojito", "Piña Colada", "Mai Tai", "Rum Punch", "Frozen Daiquiri", "Gin and Tonic", 
+    "Tequila Sunrise"
+  ],
+  "focused": [
+    "Whiskey Sour", "Negroni", "Martini", "Old Fashioned", "Gin and Tonic", "Cuba Libre"
+  ],
+  "eager": [
+    "Tequila Sunrise", "Margarita", "Rum Punch", "Bloody Mary", "Mai Tai", "Frozen Daiquiri"
+  ],
+  "stressed": [
+    "Gin and Tonic", "Bloody Mary", "Tequila Sunrise", "Margarita", "Mai Tai", "Long Island Iced Tea"
+  ],
+  "bored": [
+    "Rum Punch", "Long Island Iced Tea", "Whiskey Sour", "Frozen Daiquiri", "Piña Colada", "Gin Fizz"
+  ],
+  "lonely": [
+    "Cosmopolitan", "Gin and Tonic", "Margarita", "Bloody Mary", "Tequila Sunrise", "Whiskey Sour"
+  ],
+  "hopeful": [
+    "Mojito", "Mai Tai", "Tequila Sunrise", "Gin and Tonic", "Piña Colada", "Frozen Daiquiri"
+  ],
+  "inspired": [
+    "Negroni", "Whiskey Sour", "Old Fashioned", "Cosmopolitan", "Rum Punch", "Margarita"
+  ],
+  "independent": [
+    "Martini", "Negroni", "Old Fashioned", "Whiskey Sour", "Gin and Tonic", "Cuba Libre"
+  ],
+  "overwhelmed": [
+    "Whiskey Sour", "Margarita", "Tequila Sunrise", "Mai Tai", "Bloody Mary", "Rum Punch"
+  ],
+  "curious": [
+    "Mai Tai", "Margarita", "Piña Colada", "Bloody Mary", "Negroni", "Gin Fizz", "Rum Punch"
+  ],
+  "frustrated": [
+    "Gin and Tonic", "Whiskey Sour", "Bloody Mary", "Tequila Sunrise", "Margarita", "Negroni"
+  ],
+  "excited": [
+    "Margarita", "Mai Tai", "Tequila Sunrise", "Gin and Tonic", "Piña Colada", "Rum Punch"
+  ],
+  "overjoyed": [
+    "Mojito", "Margarita", "Gin and Tonic", "Whiskey Sour", "Bloody Mary", "Tequila Sunrise"
+  ],
+  "indifferent": [
+    "Negroni", "Tequila Sunrise", "Gin Fizz", "Cuba Libre", "Rum Punch"
+  ],
+  "surprised": [
+    "Bloody Mary", "Mai Tai", "Pina Colada", "Gin and Tonic", "Rum Punch", "Frozen Daiquiri"
+  ],
+  "disappointed": [
+    "Margarita", "Gin and Tonic", "Whiskey Sour", "Bloody Mary", "Tequila Sunrise", "Mai Tai"
+  ],
+  "disgusted": [
+    "Gin and Tonic", "Whiskey Sour", "Bloody Mary", "Tequila Sunrise", "Margarita", "Negroni"
+  ],
+  "angry": [
+    "Margarita", "Gin and Tonic", "Whiskey Sour", "Bloody Mary", "Tequila Sunrise", "Mai Tai"
+  ],
+  "furious": [
+    "Gin and Tonic", "Whiskey Sour", "Bloody Mary", "Tequila Sunrise", "Margarita", "Negroni"
+  ],
+  "jealous": [
+    "Margarita", "Gin and Tonic", "Whiskey Sour", "Bloody Mary", "Tequila Sunrise", "Mai Tai"
+  ],
+  "envious": [
+    "Gin and Tonic", "Whiskey Sour", "Bloody Mary", "Tequila Sunrise", "Margarita", "Negroni"
+  ]
+}
+  
+

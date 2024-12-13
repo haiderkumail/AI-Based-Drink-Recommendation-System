@@ -1,0 +1,107 @@
+{
+    "Gin": {
+      "abv": 40,
+      "taste": "herbaceous"
+    },
+    "Tonic Water": {
+      "abv": 0,
+      "taste": "bitter"
+    },
+    "Lemon": {
+      "abv": 0,
+      "taste": "sour"
+    },
+    "Sugar": {
+      "abv": 0,
+      "taste": "sweet"
+    },
+    "Rum": {
+      "abv": 40,
+      "taste": "sweet"
+    },
+    "Mint": {
+      "abv": 0,
+      "taste": "refreshing"
+    },
+    "Whiskey": {
+      "abv": 40,
+      "taste": "smoky"
+    },
+    "Lime": {
+      "abv": 0,
+      "taste": "sour"
+    },
+    "Vodka": {
+      "abv": 40,
+      "taste": "neutral"
+    },
+    "Tequila": {
+      "abv": 40,
+      "taste": "spicy"
+    },
+    "Orange Juice": {
+      "abv": 0,
+      "taste": "sweet"
+    },
+    "Grenadine": {
+      "abv": 0,
+      "taste": "sweet"
+    },
+    "Cranberry Juice": {
+      "abv": 0,
+      "taste": "tart"
+    },
+    "Pineapple Juice": {
+      "abv": 0,
+      "taste": "sweet"
+    },
+    "Triple Sec": {
+      "abv": 30,
+      "taste": "sweet"
+    },
+    "Bitters": {
+      "abv": 45,
+      "taste": "bitter"
+    },
+    "Soda Water": {
+      "abv": 0,
+      "taste": "neutral"
+    },
+    "Egg White": {
+      "abv": 0,
+      "taste": "neutral"
+    },
+    "Angostura Bitters": {
+      "abv": 45,
+      "taste": "spicy"
+    },
+    "Cointreau": {
+      "abv": 40,
+      "taste": "sweet"
+    },
+    "Absinthe": {
+      "abv": 60,
+      "taste": "herbaceous"
+    },
+    "Cachaca": {
+      "abv": 40,
+      "taste": "sweet"
+    },
+    "Amaretto": {
+      "abv": 28,
+      "taste": "sweet"
+    },
+    "Campari": {
+      "abv": 25,
+      "taste": "bitter"
+    },
+    "Champagne": {
+      "abv": 12,
+      "taste": "dry"
+    },
+    "Blackberry Liqueur": {
+      "abv": 25,
+      "taste": "sweet"
+    }
+  }
+  
